@@ -1,0 +1,1 @@
+import Zombie from "../zombie";
